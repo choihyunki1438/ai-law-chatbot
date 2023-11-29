@@ -7,7 +7,7 @@ const sendButton = document.querySelector('.send-button');
 // 챗봇이 답변을 생성 중일 때 사용자에게 알리는 함수
 
 // 발급받은 OpenAI API 키를 변수로 저장
-const apiKey = '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'; // 실제 키로 변경해주세요
+const apiKey = 'OpenAI API키'; // 실제 키로 변경해주세요
 // OpenAI API 엔드포인트 주소를 변수로 저장
 const apiEndpoint = 'https://api.openai.com/v1/chat/completions';
 
